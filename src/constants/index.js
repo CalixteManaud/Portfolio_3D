@@ -220,7 +220,7 @@ const projects = [
         source_code_link: "https://github.com/Tesla-App-Project/Tesla-App-Project-Repo",
     },
     {
-        name: "Webservices Api Reservations/Movies/Auth",
+        name: "Webservices Api Reservations/Movies",
         description:
             "This project is a REST API that allows you to manage reservations for movies. It includes an authentication system and a system for managing movies.",
         tags: [

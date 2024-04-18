@@ -201,7 +201,7 @@ const projects = [
     {
         name: "Project Tesla",
         description:
-            "This 2022/2023 project aims to offer Tesla users the greatest possible comfort. It includes an application system similar to those available on operating systems, but with a new design and tricks developed. This not-for-profit project is being run by Big Data and e-commerce students based in Aix-En-Provence, France.",
+            "This 2022/2023 project aims to offer Tesla users the greatest possible comfort. It includes an application system similar to those available on operating systems, but with a new design and tricks developed.",
         tags: [
             {
                 name: "php",
@@ -216,13 +216,13 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: carrent,
+        image: tesla,
         source_code_link: "https://github.com/Tesla-App-Project/Tesla-App-Project-Repo",
     },
     {
         name: "Webservices Api Reservations/Movies/Auth",
         description:
-            "This project is a REST API that allows you to manage reservations for movies. It includes an authentication system and a system for managing movies. This project is being run by Computer Science students based in Aix-En-Provence, France.",
+            "This project is a REST API that allows you to manage reservations for movies. It includes an authentication system and a system for managing movies.",
         tags: [
             {
                 name: "laravel",
@@ -237,29 +237,29 @@ const projects = [
                 color: "pink-text-gradient",
             },
         ],
-        image: jobit,
+        image: tripguide,
         source_code_link: "https://gitlab.com/CalixteManaud/webservice-reservations",
     },
     {
-        name: "Trip Guide",
+        name: "Flex Office",
         description:
-            "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+            "This was my very first project on Salesforce to understand the tools and the interaction between code and admin. This project allows you to book a weather reservation with certain rules on the reservation.",
         tags: [
             {
-                name: "nextjs",
+                name: "Apex",
                 color: "blue-text-gradient",
             },
             {
-                name: "supabase",
+                name: "Salesforce",
                 color: "green-text-gradient",
             },
             {
-                name: "css",
+                name: "LWC",
                 color: "pink-text-gradient",
             },
         ],
-        image: tripguide,
-        source_code_link: "https://github.com/",
+        image: jobit,
+        source_code_link: "https://github.com/CalixteManaud/Flex-Office",
     },
 ];
 

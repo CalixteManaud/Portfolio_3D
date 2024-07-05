@@ -160,7 +160,7 @@ const experiences = [
         company_name: "Tvh Consulting",
         icon: meta,
         iconBg: "#E6DEDD",
-        date: "Sept 2023 - Present",
+        date: "Sept 2023 - July 2024",
         points: [
             "Developing and maintaining web applications using JavaScript, HTML, and CSS.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
